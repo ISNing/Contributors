@@ -28,7 +28,7 @@
 -    SakuraiLH
 -    ReallySnow
 -    Amktiao
--    Jerry
+-    Jerry
 ## 已通过审核人员
 
 
